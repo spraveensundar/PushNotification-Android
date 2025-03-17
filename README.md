@@ -1,6 +1,6 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 📲 React Native Push Notifications (Android)
 
-# Getting Started
+This project demonstrates how to implement push notifications in a React Native application for Android using **Firebase Cloud Messaging (FCM)**.
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
