@@ -5,8 +5,7 @@ This project demonstrates how to implement push notifications in a React Native 
 ## Examples
 
 **Configure Firebase**
-```rust
-Go to the Firebase Console → Create a new project.
+```Go to the Firebase Console → Create a new project.
 Add an Android app:
 Package Name (same as your app’s package in android/app/src/main/AndroidManifest.xml)
 Download the google-services.json file.
