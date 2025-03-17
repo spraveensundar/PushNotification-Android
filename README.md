@@ -49,6 +49,7 @@ AppRegistry.registerComponent(appName, () => App);
 npm install @react-native-firebase/app
 npm install @react-native-firebase/messaging
 ```
+
 ![Screenshot 2025-03-17 114433](https://github.com/user-attachments/assets/56d4780e-811f-4fc1-b2c8-70b915be72b9)
 
 ![Screenshot_2025-03-17-11-39-34-256_com miui home](https://github.com/user-attachments/assets/0c5ee2e7-ad70-4bfd-a760-234b388c324a)![Screenshot_2025-03-17-11-40-03-867_com miui home](https://github.com/user-attachments/assets/67ffb057-cd75-4a6e-b584-d353a6fdbb81)
